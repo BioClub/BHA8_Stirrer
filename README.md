@@ -1,6 +1,10 @@
 ## BHA Stirrer
 This repo contains the designs and source files of a **DIY Magnetic Stirrer**. Such a device is used to stir liquids continiously for a long period of time. The optional heating pad keeps the liquid warm, it is not design for boiling or cooking.
 
+- This repo is a clone from https://gitlab.waag.org/biohack/BHA_Stirrer, please go there for the history and provenience. 
+- `BoM` will be specific to Japan.
+- We will also described more `hacky` ways (old computer fans, etc) to build the Stirrer.
+
 ## Navigation the repo
 
  	BHA_Stirrer/				main repo
@@ -15,16 +19,4 @@ This repo contains the designs and source files of a **DIY Magnetic Stirrer**. S
 
 The magnetic stirrer v4.0 release contains the following:
 
-* 2023 BHA7 Design
-
-The magnetic stirrer v3.0 release contains the following:
-
-* 2015 BHA1 Design
-* 2015 BHA2 Design
-* 2016 BHA3 Design
-
-## To Do
-
-* Temperature control via feedback loop
-
-Please maket more suggestions by posting in the Issues section of this GitLab Repo.
+* 2023 BHA8 Design
