@@ -3,14 +3,16 @@
     "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": false,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
-      "pads": 1.0,
+      "images": 0.9200000166893005,
+      "pads": 0.8600000143051147,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 1.0
+      "zones": 0.699999988079071
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -39,7 +41,6 @@
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
@@ -60,13 +61,15 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "SMD-Magnetic-Stirrer-v2.kicad_prl",
+    "filename": "SMD-Magnetic-Stirrer.kicad_prl",
     "version": 3
   },
   "project": {
