@@ -26,7 +26,7 @@ Do make sure you have enough 3mm material to cut the design from and a bunch of 
 |2       |Zener Diode (D_Z1, D_Z2)| Which Spec? | |
 |4       |Terminal Block 2.54mm 2P|[Akizuki](https://akizukidenshi.com/catalog/g/gP-14217/)|¥25|
 |2       |Terminal Block 2.54mm 3P|[Akizuki](https://akizukidenshi.com/catalog/g/gP-14612/)|¥30|
-|1       |MOSFET_N-CH_30V_1.7A| Which Spec? | |
+|1       |MOSFET_N-CH_30V_1.7A| Which Spec? [This one?](https://www.digikey.jp/en/products/detail/alpha-omega-semiconductor-inc/AO7400/1855856)| |
 |1       |470Ω      3216|[Sengoku](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0ECL), Pack of 10|¥53|
 |2       |1KΩ       3216|[Sengoku](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0ECV), Pack of 10|¥53|
 |1       |100kΩ     3216|[Digikey](https://www.digikey.jp/en/products/detail/stackpole-electronics-inc/RMCF1206FT100K/1759689)|¥14|
