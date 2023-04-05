@@ -21,8 +21,8 @@ Do make sure you have enough 3mm material to cut the design from and a bunch of 
 |1       |Potentiometer 100KΩ 0.2W|[Digikey](https://www.digikey.jp/en/products/detail/bourns-inc/PDB181-K420P-104B/3820299) - not available|¥111|
 |1       |FR-1 Single-Sided Copper Board| | |
 |1       |2.2uF Capacitor (C1)|[Digikey](https://www.digikey.jp/en/products/detail/samsung-electro-mechanics/CL31B225KOHNNNE/3886922)|¥25|
-|1       |100nF (=0.1uF) Capacitor (C2) 3216|[Akizuki](https://akizukidenshi.com/catalog/g/gP-15180/) Pack of 5|¥120|
-|1       |Schottky Diode 100V 1A (D3)|[Akizuki](https://akizukidenshi.com/catalog/g/gI-06189/) Pack of 20|¥250|
+|1       |100nF (=0.1uF) Capacitor (C2) 3216|[Akizuki](https://akizukidenshi.com/catalog/g/gP-15180/), Pack of 5|¥120|
+|1       |Schottky Diode 100V 1A (D3)|[Akizuki](https://akizukidenshi.com/catalog/g/gI-06189/), Pack of 20|¥250|
 |2       |Zener Diode (D_Z1, D_Z2)| Which Spec? | |
 |4       |Terminal Block 2.54mm 2P|[Akizuki](https://akizukidenshi.com/catalog/g/gP-14217/)|¥25|
 |2       |Terminal Block 2.54mm 3P|[Akizuki](https://akizukidenshi.com/catalog/g/gP-14612/)|¥30|
