@@ -15,7 +15,6 @@ Do make sure you have enough 3mm material to cut the design from and a bunch of 
 |4       |Rubber Feet|[Monotaro](https://www.monotaro.com/p/0933/2574/?t.q=rubber%20feet)|¥34|
 |1       |Power Switch|[Akizuki](https://akizukidenshi.com/catalog/g/gP-15740/)|¥100|
 |1       |2.1mm DC power Jack|[Akizuki](https://akizukidenshi.com/catalog/g/gC-17108/)|¥50|
-
 |1       |Heating Foil 12V 22W|[Akizuki](https://akizukidenshi.com/catalog/g/gP-14812/)|¥800| 
 |1       |7.5W - power supply (1000mA)| | |
 |1       |Potentiometer 100Ω 2W|[Digikey](https://www.digikey.jp/en/products/detail/bourns-inc/93R1A-R22-A05L/2564715?s=N4IgTCBcDaIJwGYBOBGAhgWiWMG0AYBWAGxAF0BfIA)|¥1,171|
