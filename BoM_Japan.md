@@ -23,10 +23,10 @@ Do make sure you have enough 3mm material to cut the design from and a bunch of 
 |1       |2.2uF Capacitor (C1)|[Digikey](https://www.digikey.jp/en/products/detail/samsung-electro-mechanics/CL31B225KOHNNNE/3886922)|¥25|
 |1       |100nF (=0.1uF) Capacitor (C2) 3216|[Akizuki](https://akizukidenshi.com/catalog/g/gP-15180/), Pack of 5|¥120|
 |1       |Schottky Diode 100V 1A (D3)|[Akizuki](https://akizukidenshi.com/catalog/g/gI-06189/), Pack of 20|¥250|
-|2       |Zener Diode (D_Z1, D_Z2)| Which Spec? | |
+|2       |Zener Diode (D_Z1, D_Z2) BZT52C3V3, SOD-123 3.3V 0.5W|[Digikey](https://www.digikey.jp/en/products/detail/yangjie-technology/BZT52C3V3/16734164), Alternative [Akizuki]()| |
 |4       |Terminal Block 2.54mm 2P|[Akizuki](https://akizukidenshi.com/catalog/g/gP-14217/)|¥25|
 |2       |Terminal Block 2.54mm 3P|[Akizuki](https://akizukidenshi.com/catalog/g/gP-14612/)|¥30|
-|1       |MOSFET_N-CH_30V_1.7A| Which Spec? [This one?](https://www.digikey.jp/en/products/detail/alpha-omega-semiconductor-inc/AO7400/1855856)| |
+|1       |MOSFET_N-CH_30V_1.7A|[Digikey](https://www.digikey.jp/en/products/detail/alpha-omega-semiconductor-inc/AO7400/1855856), Alternative [Akizuki](https://akizukidenshi.com/catalog/g/gI-06049/)| |
 |1       |470Ω      3216|[Sengoku](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0ECL), Pack of 10|¥53|
 |2       |1KΩ       3216|[Sengoku](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0ECV), Pack of 10|¥53|
 |1       |100kΩ     3216|[Digikey](https://www.digikey.jp/en/products/detail/stackpole-electronics-inc/RMCF1206FT100K/1759689)|¥14|
